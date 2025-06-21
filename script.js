@@ -1,0 +1,1 @@
+console.log("Website loaded via Docker + Nginx!");
