@@ -21,5 +21,12 @@ This project demonstrates how to containerize a basic static website built with 
 -> Serves the website on port 8080 using Docker or Docker Compose.
 
 
+##Snapshots
+
+<img src="static-website-output/docker static snap.PNG" alt="notes-app-docker-cli" width="400"/>
+
+
+<img src="static-website-output/docker static snap.PNG" alt="notes-app-docker-cli" width="400"/>
+
 
 
